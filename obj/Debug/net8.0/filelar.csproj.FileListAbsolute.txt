@@ -1,0 +1,14 @@
+C:\Users\otabek\Desktop\.Net\filelar\bin\Debug\net8.0\filelar.exe
+C:\Users\otabek\Desktop\.Net\filelar\bin\Debug\net8.0\filelar.deps.json
+C:\Users\otabek\Desktop\.Net\filelar\bin\Debug\net8.0\filelar.runtimeconfig.json
+C:\Users\otabek\Desktop\.Net\filelar\bin\Debug\net8.0\filelar.dll
+C:\Users\otabek\Desktop\.Net\filelar\bin\Debug\net8.0\filelar.pdb
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.AssemblyInfoInputs.cache
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.AssemblyInfo.cs
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.csproj.CoreCompileInputs.cache
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.dll
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\refint\filelar.dll
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.pdb
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\filelar.genruntimeconfig.cache
+C:\Users\otabek\Desktop\.Net\filelar\obj\Debug\net8.0\ref\filelar.dll
